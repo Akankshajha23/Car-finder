@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import Home from "./Pages/Home";
-import CarDetails from "./pages/CarDetails";
-import Wishlist from "./pages/Wishlist";
+import CarDetails from "./Pages/CarDetails";
+import Wishlist from "./Pages/Wishlist";
 
 function App() {
   return (
